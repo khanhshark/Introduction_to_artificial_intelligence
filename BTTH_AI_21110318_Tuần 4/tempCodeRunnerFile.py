@@ -1,0 +1,1 @@
+for point in self.get_points():
